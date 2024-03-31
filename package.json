@@ -1,0 +1,12 @@
+{
+  "name": "hpms",
+  "version": "1.0.0",
+  "description": "this is a complex management system specially created for Personal Departmental Stores",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
